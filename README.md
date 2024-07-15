@@ -1,8 +1,11 @@
+<div align="center">
+  <img src="bannergithub2.png" alt="Banner GitHub"/>
+</div>
+<br>
 
-
-    - 💻 Atuo como Desenvolvedor Front-end
-    - 📱 Estudando UI/UX Designer
-    - 🎓 Cursando Sistemas de Informação
-    - 😁 Não possuo redes sociais
-    - 🤝 Sou um grande fã do David Beckham, acredito que sua abordagem à vida e ao 
-          trabalho é um exemplo a ser seguido.
+<ul>
+    <li>  💻 Atuo como Desenvolvedor Front-end </li>
+    <li>  📱 Estudando UI/UX Designer         </li>
+    <li>  🎓 Cursando Sistemas de Informação  </li>
+    <li>  😁 Não possuo redes sociais         </li>
+ </ul>
