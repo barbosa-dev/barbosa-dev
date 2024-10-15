@@ -11,7 +11,7 @@
 </div>
 
  <div align="center">
-  <img src="attfooter.png" alt="Banner GitHub"/>
+  <img src="attfooterts.png" alt="Banner GitHub"/>
 </div>
 
 
