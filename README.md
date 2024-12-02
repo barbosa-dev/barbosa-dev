@@ -3,9 +3,8 @@
 </div>
 <div align="center">
      
-             💻 Atuo como Desenvolvedor Front-end Jr
-          📱 Estudando UI/UX Designer         
-          🎓 Cursando Sistemas de Informação  
+             💻 Atuo como Desenvolvedor Front-end Jr  
+          🎓 Cursando Análise e Desenvolvimento de Sistema 
           😁 Não possuo redes sociais         
      
 </div>
