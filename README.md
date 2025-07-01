@@ -4,7 +4,6 @@
 <div align="center">
      
          💻 Atuo como Desenvolvedor Front-end Jr  
-                 🎓 Cursando Análise e Desenvolvimento de Sistema 
     😁 Não possuo redes sociais         
      
 </div>
