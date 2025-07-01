@@ -9,7 +9,7 @@
 </div>
 
  <div align="center">
-  <img src="toolsgithub.png" alt="Banner GitHub"/>
+  <img src="tools.png" alt="Banner GitHub"/>
 </div>
 
 
