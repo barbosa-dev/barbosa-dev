@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="bannergithub2.png"/>
+  <img src="Header GitHub.png"/>
 </div>
 <div align="center">
      
@@ -9,7 +9,7 @@
 </div>
 
  <div align="center">
-  <img src="tools.png" alt="Banner GitHub"/>
+  <img src="Footer GitHub.png" alt="Banner GitHub"/>
 </div>
 
 
