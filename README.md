@@ -1,15 +1,6 @@
-<div align="center">
-</div>
-<div align="center">
-     
-         💻 Atuo como Desenvolvedor Front-end Jr  
-    😁 Não possuo redes sociais         
-     
-</div>
 
- <div align="center">
-  <img src="Footer GitHub.png" alt="Banner GitHub"/>
-</div>
+  <img src="Capa GitHub.png" alt="Banner GitHub"/>
+
 
 
 
